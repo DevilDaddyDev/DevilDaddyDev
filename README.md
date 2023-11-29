@@ -3,15 +3,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+DEVil+Daddy;Sou+brasileiro+e+vascaíno;Sou+iniciante+em+front-end;Seja+bem-vindo!+😈👋)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=DomChaos&color=FF0000" alt="Profile views" /> </p>
+<img src="https://komarev.com/ghpvc/?username=DevilDaddyDev&color=FF0000" alt="Profile views" /> </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DomChaos&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="DomChaos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomChaos&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevilDaddyDev&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="DomChaos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevilDaddyDev&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0d1117" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DomChaos&bg_color=050505&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevilDaddyDev&bg_color=050505&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Tecnologias que eu uso no meu dia
 
