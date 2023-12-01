@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=DevilDaddyDev&color=1E90FF" alt="Profile views" /> </p>
 
-<div style="display: flex; justify-content: space-between;"> <br>
+<div>
      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api? 
      username=DevilDaddyDev&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="DomChaos github stats" /> 
      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevilDaddyDev&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
