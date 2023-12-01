@@ -26,12 +26,15 @@
 
 
 ##
+<div style="display: inline_block"><br>
+       <h1>Social</h1>h1>
+       <a href="https://www.linkedin.com/in/aldailson-lira-moura-b48313188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+       target="_blank"></a> 
+       <a href="https://instagram.com/devildaddydev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+       <a href="https://discord.gg/T5WreEUg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
 
 
-### Redes Sociais
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldailson-lira-moura-b48313188/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devildaddydev/?next=%2Fdomchaos%2F)
-<a href="https://discord.gg/T5WreEUg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/devildaddy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" /></a>
