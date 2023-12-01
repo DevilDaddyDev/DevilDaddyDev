@@ -25,7 +25,7 @@
 </div>
 
 
-##
+
 <div style="display: inline_block"><br>
        <h1>Social</h1>
        <a href="https://www.linkedin.com/in/aldailson-lira-moura-b48313188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
