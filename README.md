@@ -28,13 +28,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldailson-lira-moura-b48313188/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devildaddy54/?next=%2Fdomchaos%2F)
 
-### Ajude-me
 
-<ul style="list-style-type: nenhum; margem: 0;">
-
-<li style="display: inline-block; margin-right: 0,25rem;"><a href="https://www.buymeacoffee.com/devildaddy"><img src="https://cdn.buymeacoffee .com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 
 
