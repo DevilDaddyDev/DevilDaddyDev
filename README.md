@@ -38,6 +38,7 @@
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/devildaddy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" /></a>
+<a href='https://ko-fi.com/devildaddy' target='_blank'><img height='36' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## “Be the change you want to see in the world.” Mahatma Gandhi
 
