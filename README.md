@@ -51,7 +51,6 @@
      <h2>“Be the change you want to see in the world.” Mahatma Gandhi</h2>
 </div>
 
-![snake gif](https://github.com/DevilDaddyDev/DevilDaddyDev/blob/output/github-contribution-grid-snake.svg)
      
 
 
