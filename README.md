@@ -6,8 +6,9 @@
 <img src="https://komarev.com/ghpvc/?username=DevilDaddyDev&color=1E90FF" alt="Profile views" /> </p>
 
 <div style="display: flex; justify-content: space-between;"> <br>
-     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevilDaddyDev&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="DomChaos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevilDaddyDev&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api? 
+    username=DevilDaddyDev&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="DomChaos github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevilDaddyDev&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
 </div>
 
 <div align="center">
@@ -28,11 +29,11 @@
 
 
 <div style="display: inline_block"><br>
-       <h1>Social</h1>
-       <a href="https://www.linkedin.com/in/aldailson-lira-moura-b48313188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-       target="_blank"></a> 
-       <a href="https://instagram.com/devildaddydev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-       <a href="https://discord.gg/T5WreEUg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+     <h1>Social</h1>
+     <a href="https://www.linkedin.com/in/aldailson-lira-moura-b48313188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+     target="_blank"></a> 
+     <a href="https://instagram.com/devildaddydev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://discord.gg/T5WreEUg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
 
